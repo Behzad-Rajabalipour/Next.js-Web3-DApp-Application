@@ -1,10 +1,3 @@
-
-<p align="center">
-  <a href="https://github.com/fariborz0015/Web3modal-nextjs-template" target="blank"><img src="https://github.com/fariborz0015/Web3modal-nextjs-template/blob/main/public/cover1.png?raw=true"  alt="Nest Logo" /></a>
-</p>
-
-### Warning: Ai Generated Readme
-
 # Next.js DApp Template with Web3Modal and TailwindCSS
 
 Jumpstart DApp development with Next.js. Easily connect wallets via Web3Modal and Wagmi, with UI powered by tailwindcss and shadcn. Includes a donate-me website example, enabling digital currency coffee purchases via wallet.
