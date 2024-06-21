@@ -2,7 +2,7 @@
 
 # Next.js DApp Application with Web3Modal and TailwindCSS
 
-Jumpstart DApp development with Next.js. Easily connect wallets via Web3Modal and Wagmi, with UI powered by tailwindcss. Digital currency purchases via wallet.
+Jumpstart DApp development with Next.js. Easily connect wallets via Web3Modal and Wagmi, with UI powered by tailwindcss. This application allows you to purchase digital currency via wallet.
 # Features : 
 - Demo of chain native currency transform 
 - Demo of contract connection 
