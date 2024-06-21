@@ -1,4 +1,4 @@
-# Next.js DApp Template with Web3Modal and TailwindCSS
+# Next.js DApp Application with Web3Modal and TailwindCSS
 
 Jumpstart DApp development with Next.js. Easily connect wallets via Web3Modal and Wagmi, with UI powered by tailwindcss and shadcn. Includes a donate-me website example, enabling digital currency coffee purchases via wallet.
 # Features : 
