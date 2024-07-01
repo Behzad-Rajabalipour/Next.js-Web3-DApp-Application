@@ -1,5 +1,3 @@
-### Warning: Ai Generated Readme
-
 # Next.js DApp Application with Web3Modal and TailwindCSS
 
 DApp development with Next.js. Easily connect wallets via Web3Modal, with UI powered by tailwindcss. This application allows you to purchase digital currency via wallet.
